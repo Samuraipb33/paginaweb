@@ -1,0 +1,6 @@
+{
+  "name": "Local File Gallery",
+  "description": "A web application to browse and manage local image and video files, inspired by a photographer's portfolio viewer. Users can select files from their computer, view them in a gallery, and perform actions like downloading individually or as a batch.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
